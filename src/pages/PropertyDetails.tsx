@@ -23,8 +23,8 @@ import { Property } from "@/types/property";
 import properties from "@/data/properties.json";
 
 const PropertyDetails = () => {
-  const { id } = useParams();
-  const property = (properties as Property[]).find(p => p.id === parseInt(id || "0"));
+  const { slug } = useParams();
+  const property = (properties as Property[]).find(p => p.slug === slug);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   if (!property) {

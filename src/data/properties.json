@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "slug": "modern-downtown-apartment",
     "title": "Modern Downtown Apartment",
     "description": "Beautiful 2-bedroom apartment in the heart of downtown with stunning city views. Features modern amenities, hardwood floors, and a spacious balcony.",
     "price": 2500,
@@ -24,6 +25,7 @@
   },
   {
     "id": 2,
+    "slug": "luxury-family-villa",
     "title": "Luxury Family Villa",
     "description": "Spacious 4-bedroom villa with private garden, pool, and garage. Perfect for families looking for comfort and elegance.",
     "price": 750000,
@@ -46,6 +48,7 @@
   },
   {
     "id": 3,
+    "slug": "cozy-studio-apartment",
     "title": "Cozy Studio Apartment",
     "description": "Perfect studio apartment for young professionals. Fully furnished with modern appliances and great location near public transport.",
     "price": 1800,
@@ -68,6 +71,7 @@
   },
   {
     "id": 4,
+    "slug": "commercial-office-space",
     "title": "Commercial Office Space",
     "description": "Premium office space in business district. Open floor plan with modern facilities, parking, and 24/7 security.",
     "price": 5000,
@@ -90,6 +94,7 @@
   },
   {
     "id": 5,
+    "slug": "beachfront-condo",
     "title": "Beachfront Condo",
     "description": "Stunning 3-bedroom condo with ocean views. Direct beach access, modern kitchen, and resort-style amenities.",
     "price": 950000,
@@ -112,6 +117,7 @@
   },
   {
     "id": 6,
+    "slug": "historic-townhouse",
     "title": "Historic Townhouse",
     "description": "Charming 3-bedroom townhouse with original architectural details. Recently renovated while maintaining historic charm.",
     "price": 3200,

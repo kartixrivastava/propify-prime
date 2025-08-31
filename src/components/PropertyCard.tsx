@@ -107,7 +107,7 @@ const PropertyCard = ({ property }: PropertyCardProps) => {
               {formatPrice(property.price, property.type)}
             </div>
             <Button asChild className="gradient-primary">
-              <Link to={`/property/${property.id}`} className="flex items-center space-x-2">
+              <Link to={`/property/${property.slug}`} className="flex items-center space-x-2">
                 <Eye className="w-4 h-4" />
                 <span>View Details</span>
               </Link>
