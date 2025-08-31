@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john@example.com",
+    "phone": "+1 (555) 123-4567",
+    "role": "owner",
+    "properties": [1]
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "phone": "+1 (555) 987-6543",
+    "role": "owner",
+    "properties": [2]
+  },
+  {
+    "id": 3,
+    "name": "Mike Davis",
+    "email": "mike@example.com",
+    "phone": "+1 (555) 456-7890",
+    "role": "tenant",
+    "properties": []
+  },
+  {
+    "id": 4,
+    "name": "Admin User",
+    "email": "admin@propify.com",
+    "phone": "+1 (555) 000-0000",
+    "role": "admin",
+    "properties": []
+  },
+  {
+    "id": 5,
+    "name": "Emma Wilson",
+    "email": "emma@example.com",
+    "phone": "+1 (555) 222-3333",
+    "role": "tenant",
+    "properties": []
+  }
+]

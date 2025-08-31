@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Downtown Apartment",
+    "description": "Beautiful 2-bedroom apartment in the heart of downtown with stunning city views. Features modern amenities, hardwood floors, and a spacious balcony.",
+    "price": 2500,
+    "type": "rent",
+    "category": "residential",
+    "location": "Downtown, New York",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1200,
+    "images": [
+      "/src/assets/property-1.jpg",
+      "/src/assets/property-1-2.jpg"
+    ],
+    "availability": true,
+    "featured": true,
+    "owner": {
+      "name": "John Smith",
+      "phone": "+1 (555) 123-4567",
+      "email": "john.smith@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Luxury Family Villa",
+    "description": "Spacious 4-bedroom villa with private garden, pool, and garage. Perfect for families looking for comfort and elegance.",
+    "price": 750000,
+    "type": "sale",
+    "category": "residential",
+    "location": "Suburban Heights, California",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 2800,
+    "images": [
+      "/src/assets/property-2.jpg"
+    ],
+    "availability": true,
+    "featured": false,
+    "owner": {
+      "name": "Sarah Johnson",
+      "phone": "+1 (555) 987-6543",
+      "email": "sarah.johnson@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cozy Studio Apartment",
+    "description": "Perfect studio apartment for young professionals. Fully furnished with modern appliances and great location near public transport.",
+    "price": 1800,
+    "type": "rent",
+    "category": "residential",
+    "location": "Midtown, New York",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 600,
+    "images": [
+      "/src/assets/property-3.jpg"
+    ],
+    "availability": true,
+    "featured": false,
+    "owner": {
+      "name": "Mike Davis",
+      "phone": "+1 (555) 456-7890",
+      "email": "mike.davis@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Commercial Office Space",
+    "description": "Premium office space in business district. Open floor plan with modern facilities, parking, and 24/7 security.",
+    "price": 5000,
+    "type": "rent",
+    "category": "commercial",
+    "location": "Business District, Chicago",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 3000,
+    "images": [
+      "/src/assets/property-4.jpg"
+    ],
+    "availability": true,
+    "featured": true,
+    "owner": {
+      "name": "Corporate Realty LLC",
+      "phone": "+1 (555) 111-2222",
+      "email": "info@corporaterealty.com"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Beachfront Condo",
+    "description": "Stunning 3-bedroom condo with ocean views. Direct beach access, modern kitchen, and resort-style amenities.",
+    "price": 950000,
+    "type": "sale",
+    "category": "residential",
+    "location": "Miami Beach, Florida",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1800,
+    "images": [
+      "/src/assets/property-5.jpg"
+    ],
+    "availability": true,
+    "featured": true,
+    "owner": {
+      "name": "Ocean View Properties",
+      "phone": "+1 (555) 333-4444",
+      "email": "sales@oceanview.com"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Historic Townhouse",
+    "description": "Charming 3-bedroom townhouse with original architectural details. Recently renovated while maintaining historic charm.",
+    "price": 3200,
+    "type": "rent",
+    "category": "residential",
+    "location": "Historic District, Boston",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 1600,
+    "images": [
+      "/src/assets/property-6.jpg"
+    ],
+    "availability": true,
+    "featured": false,
+    "owner": {
+      "name": "Heritage Homes",
+      "phone": "+1 (555) 777-8888",
+      "email": "contact@heritagehomes.com"
+    }
+  }
+]
